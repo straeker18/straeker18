@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="400" src="https://user-images.githubusercontent.com/49077085/188249249-e99d96af-a9d9-45d9-b331-afe871b13153.png" />
+   <img align="center" width="500" src="https://user-images.githubusercontent.com/49077085/188249249-e99d96af-a9d9-45d9-b331-afe871b13153.png" />
    <h3 align="center">¡Hey 👋! Santiago Arango🐈‍👨🏻‍💻</h3>
 </p>
 
@@ -10,10 +10,10 @@
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248117-f2bdf648-a274-4eff-babb-967f3576d6f8.svg" alt="midudev" height="28px" width="28px" />
   </a>
    <a href="https://www.youtube.com/channel/UCouJY6fX7ShdDONeN3thUUA" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248348-624b06d3-d787-4223-8ca1-85edffe4bf04.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248348-624b06d3-d787-4223-8ca1-85edffe4bf04.svg" alt="midudev" height="38px" width="38px" />
   </a>
   <a href="https://www.instagram.com/streaker_a/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248313-c2090cae-c409-43ce-8356-5d1f0f13fa53.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://user-images.githubusercontent.com/49077085/188248313-c2090cae-c409-43ce-8356-5d1f0f13fa53.svg" alt="midu.dev" height="38px" width="38px" />
   </a>
   <a href="https://twitter.com/santiag52487362" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/49077085/188248390-3181255d-d4fc-4a3a-b1a1-e26a2218333f.svg" alt="midudev" height="28px" width="28px" />
